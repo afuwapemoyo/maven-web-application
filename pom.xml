@@ -22,7 +22,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		
-		<!-- sonarqube nexus -->
+		<!-- sonarqube -->
 		<sonar.host.url>http:172.31.88.225:5000/</sonar.host.url>
 		
 		<sonar.login>admin</sonar.login>
@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://172.31.18.29:8081/repository/ebay-bts-releases/</url>
+	      <url> http://54.159.198.200:4000/repository/ebay-bts-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://100.24.52.91:4000/repository/ebay-bts-snapshot/</url>
+	      <url>http://54.159.198.200:4000/repository/ebay-bts-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
