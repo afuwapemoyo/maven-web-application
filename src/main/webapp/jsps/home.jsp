@@ -10,12 +10,40 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Software Solutions, Virginia, USA Office.</h1>
+	
+	
+	
+<!--ISMAILA ADDED CSS STYLE CODE-->
+<h2 style="color: blue;">We are developing and supporting quality  Software Solutions to millions of clients.
+        We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
+        We have a Demo class on DEVOPS with Linux and AWS on Saturday Jan 9,2021 at 11am, Devops is good
+        JESUS IS LORD.I AM BLESSES.</h2>
+<hr>
+<br>
+<!--ISMAILA ADDED CSS STYLE CODE-->
+<p style="color: black; font-family:cursive;font-weight:bold;font-size:
+12pt">CSS STYLE CODE ADDED BY :: ISMAILA. &#128525;&#128515;&#129321;<br>
+
+<p style="color: red; font-family:cursive;font-weight:bold;font-size:
+13pt">Server Side IP Address. <br>
+
+<!--ISMAILA ADDED CSS STYLE CODE-->
+
+			
+	
+<!--  COMMENT PROFF BEGINING
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
-	<h1><h3> Server Side IP Address </h3><br>
+	<h1><h3> Server Side IP Address </h3>  
 
+COMMENT PROFF END -->
+	
+	
+	
+		
+<br>
 <% 
 String ip = "";
 InetAddress inetAddress = InetAddress.getLocalHost();
