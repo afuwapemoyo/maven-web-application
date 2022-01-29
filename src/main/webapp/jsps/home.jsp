@@ -52,8 +52,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 %>
 <br>
 <%out.println("Server IP Address :: "+ip);%>
-		
-</h1>
+	
+</p>
+</h2>
+
+<!-- </h1> -->
 	
 <hr>
 <div style="text-align: center;">
